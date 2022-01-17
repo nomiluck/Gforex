@@ -1,0 +1,4 @@
+import re
+import urllib
+import sys
+MacauBOCURL="https://www.bankofchina.com/mo/ftpdata/2009p6.htm"
